@@ -1,6 +1,7 @@
 ### Hello! I'm Nuno 👋🇵🇹
 
-- 🎓 MSc Student in Electrical and Computer Engineering | Robotics, Control and Artificial Intelligence Specialization | @[FCTUC](https://www.uc.pt/en/fctuc), [University of Coimbra](https://www.uc.pt/en)
+- 🎓 MSc Student in Electrical and Computer Engineering - Robotics, Control and Artificial Intelligence Specialization -
+- @[FCTUC](https://www.uc.pt/en/fctuc), [University of Coimbra](https://www.uc.pt/en)
 - 📩 Reach me! Here's my email: nuno.cunha@isr.uc.pt
 
 
