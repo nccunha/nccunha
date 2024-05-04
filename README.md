@@ -1,6 +1,6 @@
 ### Hello! I'm Nuno 👋🇵🇹
 
-
+- 🤖 Field Application Engineer @ MaVis Imaging GmbH
 - 🎓 MSc in Electrical and Computer Engineering - Robotics, Control and Artificial Intelligence Specialization - @[FCTUC](https://www.uc.pt/en/fctuc), [University of Coimbra](https://www.uc.pt/en)
 
 
